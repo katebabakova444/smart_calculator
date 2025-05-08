@@ -10,22 +10,15 @@ Smart Calculator is a mini Python application that generates 5 random math chall
 - Square root answers are rounded to 2 decimal places
 - Beginner-friendly and great for portfolio use
 
+## Technologies Used
+    •	Python 3
+	•	Built-in modules: random, math
 ## Sample Output
 Welcome to Smart Calculator!
-
 Challenge 1/5
-√64 = ?
-Your answer: 8
-Correct!
-
-Challenge 2/5
-23 + 19 = ?
-Your answer: 42
-Correct!
-
-…
-
-Final score: 4/5
+√116 = ?
+Your answer: 10.77
+Wrong. The correct answer was 10.77
 
 ## How to Run
 
@@ -35,6 +28,8 @@ Final score: 4/5
 
 ```bash
 python smart_calculator.py
-Technologies Used
-	•	Python 3
-	•	Built-in modules: random, math
+
+Author
+
+Kateryna Babakova
+This project was created as part of my transition into software engineering and preparation for technical apprenticeships.
