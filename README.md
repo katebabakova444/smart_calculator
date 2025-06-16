@@ -1,18 +1,46 @@
-# Smart Calculator
+# 🧮 Smart Calculator
 
-Smart Calculator is a mini Python application that generates 5 random math challenges — either addition or square root problems. It’s a lightweight console game designed to showcase logic, use of Python’s `random` and `math` modules, input validation, and basic user interaction.
+A mini Python CLI application that generates math challenges for users.  
 
-## Features
+---
 
-- Randomly selected math challenges (addition or square root)
-- Score tracking out of 5
-- Input validation and error handling
-- Square root answers are rounded to 2 decimal places
-- Beginner-friendly and great for portfolio use
+## 💡 Why I Built This
 
-## Technologies Used
-    •	Python 3
-	•	Built-in modules: random, math
+At this stage of learning, I wanted to get comfortable writing conditionals, validating user input, and handling edge cases — without worrying about complex logic.  
+This simple calculator was a chance to practice control flow, error handling, and user-friendly CLI formatting.
+
+---
+
+## ✨ Features
+
+- Randomly selected math challenges (addition or square root)  
+- Score tracking (5-question quiz)  
+- Input validation with error feedback  
+- Rounded answers to 2 decimal places  
+- Beginner-friendly UX with simple CLI instructions  
+
+---
+
+## 🧠 Tech & Concepts
+
+- Python 3  
+- Standard Library: `random`, `math`, `input()`  
+- CLI formatting & logic-based flow  
+- Basic testing and debugging  
+- Code readability and function separation  
+
+---
+
+## ▶️ How to Run
+
+1. Make sure you have Python 3 installed  
+2. Clone or download this repository  
+3. Run from terminal or IDE:
+
+```bash
+python smart_calculator.py
+```
+
 ## Sample Output
 Welcome to Smart Calculator!
 Challenge 1/5
@@ -28,8 +56,10 @@ Wrong. The correct answer was 10.77
 
 ```bash
 python smart_calculator.py
+```
 
-Author
+## 👩‍💻 Author
 
-Kateryna Babakova
-This project was created as part of my transition into software engineering and preparation for technical apprenticeships.
+Created by Kateryna Babakova (https://github.com/katebabakova444)
+This project is part of my backend development journey.
+View my full portfolio: kateryna-portfolio (https://github.com/katebabakova444/kateryna-portfolio)
